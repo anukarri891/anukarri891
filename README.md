@@ -4,7 +4,7 @@ Your GitHub profile README is an excellent way to introduce yourself to others i
 
 ---
 
-# 👋 Hi, I’m [Anusha Karri](https://github.com/anukarri891)  
+# 👋 Hi, I’m [Naga Anusha Karri](https://github.com/anukarri891)  
 🌟 **Aspiring Software Developer | AI Enthusiast | Final Year BTech Student**  
 
 ---
