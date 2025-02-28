@@ -33,7 +33,7 @@ Your GitHub profile README is an excellent way to introduce yourself to others i
 ### 📫 How to Reach Me  
 - 📧 Email: [anushakarri79435@gmail.com](mailto:anushakarri79435@gmail.com)  
 - 💼 LinkedIn: [Karri Naga Anusha](https://www.linkedin.com/in/karri-naga-anusha-0a119b229/)  
-- 💻 Portfolio: *Coming Soon!*  
+- 💻 Portfolio: [My Personal Portfolio](https://my-portfolio--opal.vercel.app/) 
 
 ---
 
